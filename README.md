@@ -42,3 +42,9 @@ kotlin化的第一行代码：
     内容章节:4.6
     Demo内容:RecylerView
 时间:2020年4月20日
+
+6.[UIBestPractice](https://github.com/yi-sheep/UIBestPractice)
+
+    内容章节:4.7
+    Demo内容:聊天界面
+时间:2020年4月21日

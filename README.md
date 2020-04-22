@@ -49,3 +49,8 @@ kotlin化的第一行代码：
     Demo内容:聊天界面
 时间:2020年4月21日
 
+5.[BroadcastBecriverDemo](https://github.com/yi-sheep/BroadcastRecriverDemo)
+
+    内容章节:6.1~6.3
+    Demo内容:广播
+时间:2020年4月22日

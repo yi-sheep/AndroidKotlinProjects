@@ -51,7 +51,7 @@ kotlin化的第一行代码：
 
 7. [BroadcastBecriverDemo](https://github.com/yi-sheep/BroadcastRecriverDemo)
 
-    内容章节:6.1~6.3
+    内容章节:6.1-6.3
     Demo内容:广播
 时间:2020年4月22日
 
@@ -60,6 +60,19 @@ kotlin化的第一行代码：
     内容章节:6.4
     Demo内容:强制下线
 时间:2020年4月23日
+
+9. [FilePersistenceTest](https://github.com/yi-sheep/FilePersistenceTest)
+    
+    内容章节:7.2
+    Demo内容:持久化储存(一)文件储存
+时间:2020年5月10日
+
+10. [SharedPreferencesTest](https://github.com/yi-sheep/SharedPreferencesTest)
+    
+    内容章节:7.3
+    Demo内容:持久化储存(二)SharedPreferences
+时间:2020年5月10日
+
 
 
 完整项目
